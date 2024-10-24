@@ -1,0 +1,3 @@
+een lijn code Console.writeLine("Dag Wim");
+een tweede lijn code Console.writeLine("Top, lector!");
+een derde mag ook
